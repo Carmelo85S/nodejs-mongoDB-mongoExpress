@@ -1,0 +1,25 @@
+{
+  "name": "week-14-nodejs-mongodb-mongoexpress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carmelo85S/nodejs-mongoDB-mongoExpress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carmelo85S/nodejs-mongoDB-mongoExpress/issues"
+  },
+  "homepage": "https://github.com/Carmelo85S/nodejs-mongoDB-mongoExpress#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.14.0"
+  }
+}
